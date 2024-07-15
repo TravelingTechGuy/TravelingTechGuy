@@ -1,5 +1,5 @@
 # I'm the Traveling Tech Guy
-**I technologize anywhere on Earth (and maybe beyond? I did work with sattelites 📡 once🙂)**
+**I technologize everywhere on Earth (and beyond - I did work with sattelites 📡)**
 
 - 🔭 As CTO and Co-Founder of [Kima.Finance](https://kima.finance "Kima.finance homepage"), I’m currently working on delivering a decentralized money transfer and interoperability protocol.
 - ⚒️ I also consult through my company [Traveling Tech Guy LLC](https://www.travelingtechguy.com/ "Traveling Tech Guy homepage").
